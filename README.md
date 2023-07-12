@@ -9,5 +9,6 @@
 * `POST http://localhost:3000/tasks/add-task`: Add the task into the backend and return the added task with status of 200 if success. Otherwise, return an error message `Cannot add this task`;
 * `POST http://localhost:3000/tasks/delete-task`: Delete the task in the backend and return the deleted task with status of 200 if success. Otherwise, return an error message `Cannot delete this task`;
 * `POST http://localhost:3000/tasks/update-task`: Update the task in the backend and return the updated task with status of 200 if success. Otherwise, return an error message `Cannot update this task`;
+## Please add the needed middleware, error handling, and a handler for 404
 
 
